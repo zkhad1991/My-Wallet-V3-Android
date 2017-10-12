@@ -58,122 +58,122 @@
     <string name="pin_4_strikes">PIN输入已失败4次，请输入密码</string>
     <string name="pin_4_strikes_password_accepted">密码已被接受，请重新定义PIN</string>
 
-    <string name="bip38_password_entry">Please enter private key password</string>
+    <string name="bip38_password_entry">请输入您的私钥密码</string>
 
-    <string name="pin_entry">Enter PIN</string>
-    <string name="password_entry">Please enter password</string>
-    <string name="zero_pin">0000 is an invalid PIN. Please try again.</string>
-    <string name="invalid_pin">Invalid PIN. Please try again.</string>
-    <string name="pin_mismatch_error">PINs do not match</string>
-    <string name="create_pin">Create PIN</string>
-    <string name="confirm_pin">Confirm PIN</string>
-    <string name="create_pin_failed">PIN creation failed. Please pair device again.</string>
-    <string name="change_pin_new_matches_current">You can\'t use your current PIN as your new PIN</string>
-    <string name="pairing_failed">Pairing failed. Please try again.</string>
-    <string name="account_locked_title">Account locked</string>
-    <string name="account_locked_message">Your account has been locked temporarily as a precaution. Please check your email for more information and try again later.</string>
+    <string name="pin_entry">输入PIN</string>
+    <string name="password_entry">请输入密码</string>
+    <string name="zero_pin">0000是无效的PIN密码，请重试</string>
+    <string name="invalid_pin">无效PIN，请重试</string>
+    <string name="pin_mismatch_error">PIN无法匹配</string>
+    <string name="create_pin">创建PIN</string>
+    <string name="confirm_pin">确认PIN</string>
+    <string name="create_pin_failed">PIN创建失败，请尝试重新配对设备</string>
+    <string name="change_pin_new_matches_current">您不能使用当前PIN作为新的PIN</string>
+    <string name="pairing_failed">配对失败，请重试</string>
+    <string name="account_locked_title">账户被锁定</string>
+    <string name="account_locked_message">您的账户已经被暂时锁定。请查看您的邮件以获得更多信息并稍后重试</string>
 
-    <string name="check_connectivity_exit">Blockchain Wallet cannot obtain an Internet connection. Please check the connectivity on your device and try again.</string>
-    <string name="dialog_continue">Continue</string>
+    <string name="check_connectivity_exit">Blockchain钱包无法获取网络连接。请检查设备连接并重试</string>
+    <string name="dialog_continue">继续</string>
 
-    <string name="double_encryption_password_error">Double encrypt password error. Please try again.</string>
+    <string name="double_encryption_password_error">双重加密密码错误。请重试。</string>
 
-    <string name="command2">Scan pairing code</string>
-    <string name="command3">I can\'t access my camera</string>
-    <string name="create_a_wallet">Create a wallet</string>
-    <string name="log_in">Log in</string>
-    <string name="pair_your_wallet">Pair Your Wallet</string>
-    <string name="manual_pairing">Manual Pairing</string>
-    <string name="pair_wallet_step_1">Log in to your Blockchain Wallet via your PC or Mac at %1$s.</string>
-    <string name="pair_wallet_step_2">Go to Settings / Wallet Information.</string>
-    <string name="pair_wallet_step_3">Click Show Pairing Code to reveal a QR Code, a square black &amp; white barcode. Scan the code with your camera.</string>
-    <string name="wallet_id">Wallet ID</string>
-    <string name="default_wallet_name">My Bitcoin Wallet</string>
+    <string name="command2">扫描配对码</string>
+    <string name="command3">我无法访问我的摄像头</string>
+    <string name="create_a_wallet">创建钱包</string>
+    <string name="log_in">登录</string>
+    <string name="pair_your_wallet">配对您的钱包</string>
+    <string name="manual_pairing">手动配对</string>
+    <string name="pair_wallet_step_1">以%1$s形式通过您的PC或Mac登录您的Blockchain钱包</string>
+    <string name="pair_wallet_step_2">进入设置/钱包信息</string>
+    <string name="pair_wallet_step_3">单击显示配对码以显示二维码，一个黑白正方形条码；使用您的摄像头扫描该代码。</string>
+    <string name="wallet_id">钱包ID</string>
+    <string name="default_wallet_name">我的比特币钱包</string>
 
     <!-- Recover Funds -->
-    <string name="recover_funds">Recover Funds</string>
-    <string name="recover_funds_warning_message">You should always pair or login if you have access to your Wallet ID and password. Recovering your funds will create a new Wallet ID. Would you like to continue?</string>
-    <string name="recover_funds_instructions">Enter your 12 backup words with spaces to recover your funds &amp; transactions</string>
-    <string name="recovery_passphrase">Backup phrase</string>
-    <string name="invalid_recovery_phrase">Invalid backup phrase. Please try again</string>
-    <string name="creating_wallet">Creating wallet</string>
-    <string name="restore_failed">Restoring wallet failed. Please try again</string>
-    <string name="restoring_wallet">Restoring wallet.</string>
+    <string name="recover_funds">找回资金</string>
+    <string name="recover_funds_warning_message">只要你能访问你的钱包ID和密码，你应该能够时刻保持配对或登录状态。找回资金将会创建新的钱包ID，你想要继续？</string>
+    <string name="recover_funds_instructions">输入您的12位备份词以找回您的资金和交易</string>
+    <string name="recovery_passphrase">备份短语</string>
+    <string name="invalid_recovery_phrase">无效的备份短语。请重试。</string>
+    <string name="creating_wallet">正在创建钱包</string>
+    <string name="restore_failed"恢复钱包失败。请重试</string>
+    <string name="restoring_wallet">正在恢复钱包</string>
 
-    <string name="password">Password</string>
-    <string name="email">Email</string>
-    <string name="agree_terms_of_service">By creating a new wallet you agree to the</string>
-    <string name="blockchain_tos">Blockchain Terms of Service</string>
-    <string name="create_wallet">Create Wallet</string>
-    <string name="new_wallet">New Wallet</string>
-    <string name="strength_weak">Weak</string>
-    <string name="strength_medium">Regular</string>
-    <string name="strength_strong">Strong</string>
-    <string name="strength_normal">Normal</string>
+    <string name="password">密码</string>
+    <string name="email">邮件</string>
+    <string name="agree_terms_of_service">同意创建新钱包</string>
+    <string name="blockchain_tos">Blockchain服务条款</string>
+    <string name="create_wallet">创建钱包</string>
+    <string name="new_wallet">新钱包</string>
+    <string name="strength_weak">弱</string>
+    <string name="strength_medium">一般</string>
+    <string name="strength_strong">强</string>
+    <string name="strength_normal">普通</string>
 
-    <string name="CONTINUE">Continue</string>
-    <string name="SEND">SEND</string>
+    <string name="CONTINUE">继续</string>
+    <string name="SEND">发送</string>
 
-    <string name="total">Total</string>
+    <string name="total">总计</string>
 
-    <string name="max_available">Use total available minus fee:</string>
+    <string name="max_available">使用总额减去手续费：</string>
 
-    <string name="invalid_bitcoin_address">Invalid Bitcoin address</string>
-    <string name="invalid_amount">Invalid amount</string>
-    <string name="insufficient_funds">Insufficient funds</string>
+    <string name="invalid_bitcoin_address">比特币地址无效</string>
+    <string name="invalid_amount">无效的金额</string>
+    <string name="insufficient_funds">资金不足</string>
 
-    <string name="enter_double_encryption_pw">Please enter double encryption password</string>
+    <string name="enter_double_encryption_pw">请输入双重加密密码</string>
 
-    <string name="support">Support</string>
-    <string name="rate_us">Rate us</string>
-    <string name="licenses">Licenses</string>
-    <string name="email_chooser">Send e-mail…</string>
-    <string name="about">Blockchain Wallet %1$s\n©%2$s Blockchain Luxembourg S.A.\nAll rights reserved.</string>
-    <string name="merchant_download">Free Merchant app</string>
-    <string name="password_or_wipe">Enter using your password or forget this wallet</string>
-    <string name="use_password">Use password</string>
-    <string name="wipe_wallet">Forget wallet</string>
-    <string name="support_leaving_app_warning">This will leave the app and take you to your browser. Continue?</string>
+    <string name="support">支持</string>
+    <string name="rate_us">请给我们打分</string>
+    <string name="licenses">许可</string>
+    <string name="email_chooser">发送邮件…</string>
+    <string name="about">Blockchain钱包 %1$s\n©%2$s Blockchain卢森堡股份公司 \n 版权所有</string>
+    <string name="merchant_download">免费商家App</string>
+    <string name="password_or_wipe">使用密码进入或忘记此钱包</string>
+    <string name="use_password">使用密码</string>
+    <string name="wipe_wallet">忘记钱包</string>
+    <string name="support_leaving_app_warning">这将离开这个App并前往你的浏览器，继续？</string>
 
-    <string name="select_units">Select BTC units</string>
-    <string name="weak_password">The selected password is too weak to secure your funds. We strongly suggest you select a different one. Would you like to define a new password?</string>
+    <string name="select_units">选择BTC单位</string>
+    <string name="weak_password">选择的密码太弱，无法确保您的资金安全。我们强烈建议您选择另一个不同的密码。是否定义新的密码？</string>
 
-    <string name="from">From</string>
-    <string name="to">To</string>
+    <string name="from">从</string>
+    <string name="to">到</string>
 
-    <string name="confirm_details">Confirm Payment</string>
-    <string name="fee">Fee</string>
-    <string name="exit_confirm">Press back button again to exit</string>
+    <string name="confirm_details">确认付款</string>
+    <string name="fee">手续费</string>
+    <string name="exit_confirm">再次点击返回按钮退出</string>
 
-    <string name="label_address">Your address has been imported successfully. Optionally assign a friendly display name to this address.</string>
-    <string name="label_address2">Your address has been created successfully. Optionally assign a friendly display name to this address.</string>
+    <string name="label_address">您的地址已经被成功导入。请任意为该地址指定一个友好的显示名称。</string>
+    <string name="label_address2">您的地址已经被成功创建。请任意为该地址指定一个友好的显示名称。</string>
 
-    <string name="bip38_error">Invalid private key password</string>
-    <string name="privkey_error">Unrecognized private key format</string>
-    <string name="hd_error">HD wallet error</string>
-    <string name="scan_not_recognized">Scan cannot be decoded</string>
+    <string name="bip38_error">私钥密码无效</string>
+    <string name="privkey_error">无法识别私钥格式</string>
+    <string name="hd_error">分层确定性（HD）钱包错误</string>
+    <string name="scan_not_recognized">无法解码扫描的内容</string>
 
-    <string name="imported_addresses">Imported Addresses</string>
+    <string name="imported_addresses">导入的地址</string>
 
-    <string name="remote_save_ok">Successfully saved</string>
-    <string name="remote_save_ko">Save unsuccessful</string>
+    <string name="remote_save_ok">保存成功</string>
+    <string name="remote_save_ko">保存失败</string>
 
-    <string name="unpair_wallet">Unpair Wallet</string>
-    <string name="unpair">UNPAIR</string>
+    <string name="unpair_wallet">解除钱包配对</string>
+    <string name="unpair">解除配对</string>
 
     <string name="ok_cap">OK</string>
-    <string name="change_pin_code">Change PIN</string>
-    <string name="enter_current_pin">Please enter current PIN.</string>
+    <string name="change_pin_code">更改PIN</string>
+    <string name="enter_current_pin">请输入当前PIN.</string>
 
-    <string name="suggest_merchant">Suggest merchant</string>
-    <string name="business_category">Category</string>
-    <string name="street_address">Street address</string>
-    <string name="description">Description</string>
-    <string name="city">City</string>
-    <string name="postal">Postal code</string>
-    <string name="telephone">Telephone</string>
-    <string name="web">Web</string>
-    <string name="merchant_cat_hint">Choose a category…</string>
+    <string name="suggest_merchant">推荐商家</string>
+    <string name="business_category">类别</string>
+    <string name="street_address">街道地址</string>
+    <string name="description">描述</string>
+    <string name="city">城市</string>
+    <string name="postal">邮编</string>
+    <string name="telephone">电话</string>
+    <string name="web">网页</string>
+    <string name="merchant_cat_hint">选择一个类别…</string>
     <string name="merchant_cat1">Café</string>
     <string name="merchant_cat2">Bars/Drinking</string>
     <string name="merchant_cat3">Food and Dining</string>
