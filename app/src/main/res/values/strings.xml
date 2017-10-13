@@ -174,83 +174,83 @@
     <string name="telephone">电话</string>
     <string name="web">网页</string>
     <string name="merchant_cat_hint">选择一个类别…</string>
-    <string name="merchant_cat1">Café</string>
-    <string name="merchant_cat2">Bars/Drinking</string>
-    <string name="merchant_cat3">Food and Dining</string>
-    <string name="merchant_cat4">Shopping/Spending</string>
-    <string name="merchant_cat5">ATM</string>
-    <string name="ok_writing_merchant">Thank you for your suggestion.</string>
-    <string name="error_writing_merchant">Error writing to database. Please try again.</string>
-    <string name="call">Call</string>
-    <string name="navigate">Navigate</string>
-    <string name="enable_geo">Enable either GPS or any other location service to find current location. Click OK to go to location services settings to let you do so.</string>
+    <string name="merchant_cat1">咖啡店</string>
+    <string name="merchant_cat2">酒吧/饮品店</string>
+    <string name="merchant_cat3">食品和餐饮店</string>
+    <string name="merchant_cat4">购物/消费</string>
+    <string name="merchant_cat5">自动取款机</string>
+    <string name="ok_writing_merchant">感谢您的建议</string>
+    <string name="error_writing_merchant">写入数据库时出错。请重试</string>
+    <string name="call">致电</string>
+    <string name="navigate">导航</string>
+    <string name="enable_geo">启用GPS或其他定位服务以获取正确位置。点击“OK”前往定位服务进行设置。</string>
 
-    <string name="my_addresses">Addresses</string>
-    <string name="addresses">Addresses</string>
-    <string name="create_new">Create New</string>
-    <string name="import_address">Import Address</string>
-    <string name="wallets">Wallets</string>
-    <string name="save_name">Save name</string>
+    <string name="my_addresses">地址</string>
+    <string name="addresses">地址</string>
+    <string name="create_new">新建地址</string>
+    <string name="import_address">导入地址</string>
+    <string name="wallets">钱包</string>
+    <string name="save_name">保存名称</string>
 
-    <string name="receive_address_to_clipboard">Copy this receive address to the clipboard? If so, be advised that other applications may be able to look at this information.</string>
-    <string name="receive_address_to_share">Share this receive address for sending? If so, be advised that other applications may be able to look at this information.</string>
-    <string name="guid_to_clipboard">Copy your Wallet ID to the clipboard? If so, be advised that other applications may be able to look at this information.</string>
+    <string name="receive_address_to_clipboard">确定复制这个接收地址到剪切板？ 如果是，请注意其他应用也许能够查看到这些信息。</string>
+    <string name="receive_address_to_share">确定共享这个接收地址用于发送？ 如果是，请注意其他应用也许能够查看到这些信息。</string>
+    <string name="guid_to_clipboard">确定复制这个钱包ID到剪切板？  如果是，请注意其他应用也许能够查看到这些信息。</string>
 
-    <string name="ssl_pinning_invalid">Secure connection to the host has failed. This might indicate malicious activity. Please verify your network connection and device before continuing.</string>
+    <string name="ssl_pinning_invalid">与主机安全连接失败。这可能表示恶意活动。请在继续前检查您的网络连接和设备。</string>
 
-    <string name="merchant_map">Merchant Map</string>
-    <string name="merchant_suggest">Suggest Merchant</string>
-    <string name="name">Name</string>
-    <string name="location">Location</string>
-    <string name="manual_entry">MANUAL ENTRY</string>
-    <string name="use_my_current_location">USE MY CURRENT LOCATION</string>
-    <string name="save">Save</string>
-    <string name="next">Next</string>
-    <string name="address_lookup_fail">Could not retrieve address. Please enter address manually.</string>
+    <string name="merchant_map">商家地图</string>
+    <string name="merchant_suggest">推荐商家</string>
+    <string name="name">名称</string>
+    <string name="location">位置</string>
+    <string name="manual_entry">手动输入</string>
+    <string name="use_my_current_location">使用我的当前地址</string>
+    <string name="save">保存</string>
+    <string name="next">下一步</string>
+    <string name="address_lookup_fail">无法检索到地址。请手动输入地址。</string>
 
-    <string name="received_bitcoin">Received Bitcoin</string>
+    <string name="received_bitcoin">接收到的比特币</string>
 
     <string-array name="mnemonic_word_requests">
-        <item>first word</item>
-        <item>second word</item>
-        <item>third word</item>
-        <item>fourth word</item>
-        <item>fifth word</item>
-        <item>sixth word</item>
-        <item>seventh word</item>
-        <item>eighth word</item>
-        <item>ninth word</item>
-        <item>tenth word</item>
-        <item>eleventh word</item>
-        <item>twelfth word</item>
+        <item>第一个词</item>
+        <item>第二个词</item>
+        <item>第三个词</item>
+        <item>第四个词</item>
+        <item>第五个词</item>
+        <item>第六个词</item>
+        <item>第七个词</item>
+        <item>第八个词</item>
+        <item>第九个词</item>
+        <item>第十个词</item>
+        <item>第十一个词</item>
+        <item>第十二个词</item>
     </string-array>
 
-    <string name="verification_failed">Verification Failed</string>
+    <string name="verification_failed">验证失败</string>
 
-    <string name="send_payment">Send Payment</string>
-    <string name="share">Share Receive Address</string>
-    <string name="scan_qr">Scan QR Code</string>
-    <string name="confirm_password">Confirm Password</string>
-    <string name="check_email_to_auth_login">Please check your email to approve this login attempt.</string>
-    <string name="transaction_fee">Transaction Fee</string>
-    <string name="your_transactions">No Transactions</string>
-    <string name="transaction_occur_when">Transactions occur when you receive and send bitcoin.</string>
-    <string name="click">Click</string>
-    <string name="to_start_sending_and_receiving_btc">to start sending and receiving bitcoin.</string>
+    <string name="send_payment">发送付款</string>
+    <string name="share">分享接收地址</string>
+    <string name="scan_qr">扫描二维码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="check_email_to_auth_login">请检查您的电子邮件以批准这次登录尝试.</string>
+    <string name="transaction_fee">交易手续费</string>
+    <string name="your_transactions">没有交易</string>
+    <string name="transaction_occur_when">当您接收和发送比特币时会产生交易</string>
+    <string name="click">点击</string>
+    <string name="to_start_sending_and_receiving_btc">开始发送和接收比特币</string>
 
-    <string name="watch_only_label">(watch only)</string>
-    <string name="address_book_label">(address book)</string>
-    <string name="archived_label">Archived</string>
+    <string name="watch_only_label">(仅查看)</string>
+    <string name="address_book_label">(地址薄)</string>
+    <string name="archived_label">已存档</string>
 
-    <string name="transaction_submitted">Transaction complete</string>
-    <string name="transaction_failed">Transaction failed</string>
-    <string name="UPGRADE_YOUR_WALLET">OK, let\'s go!</string>
-    <string name="upgrade_page_1">Simplified backup and recovery.</string>
-    <string name="upgrade_page_2">Enhanced privacy through hierarchical deterministic addresses.</string>
-    <string name="upgrade_page_3">Customize the way you organize your Bitcoin in your Blockchain Wallet.</string>
-    <!--<string name="confirm_upgrade_info">The upgrade takes just a second and your Bitcoin and history will be safe. Here is what’s better:\n\n✓ Completely updated design and user experience\n✓ Robust security center\n✓ Enhanced Privacy\n✓ Simplified backup and recovery\n✓ Customized fund management\n\nOne advanced transaction type (Shared Coin) is not supported in the new version at this time.</string>-->
-    <string name="confirm_upgrade_header">Hey, we\'ve added these new features to your Blockchain wallet:</string>
-    <string name="upgrading">Upgrading…</string>
+    <string name="transaction_submitted">交易完成</string>
+    <string name="transaction_failed">交易失败</string>
+    <string name="UPGRADE_YOUR_WALLET">好的，让我们继续</string>
+    <string name="upgrade_page_1">简化备份和恢复</string>
+    <string name="upgrade_page_2">通过分层确定性地址增强隐私性</string>
+    <string name="upgrade_page_3">自定义你在Blockchain钱包管理比特币的方式</string>
+    <!--<string name="confirm_upgrade_info">这次升级仅需一小段时间，你的比特币和交易记录是安全的。升级的好处：\n\n✓ 全新的设计和用户体验\n✓ 强大的安全中心\n✓ 增强的隐私性\n✓ 简化的备份与恢复\n✓ 自定义的资金管理\n\nOne 此次新版本不支持高级交易类型（共享加密货币）</string>-->
+    <string name="confirm_upgrade_header">我们已经为您的Blockchain钱包添加了这些新的功能:</string>
+    <string name="upgrading">正在升级…</string>
     <string name="upgrading_started_info">Your wallet is upgrading, please be patient this may take some time depending on the size and age of your wallet.</string>
     <string name="upgrade_success_heading">Your wallet has been upgraded!</string>
     <string name="upgrade_success_info">You are now running the most secure and private Blockchain Wallet. You may continue to your wallet now.</string>
