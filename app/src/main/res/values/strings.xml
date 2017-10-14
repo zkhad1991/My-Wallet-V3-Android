@@ -760,5 +760,40 @@
 
     <string name="what_s_this">这是什么？</string>
     <string name="dismiss">解除</string>
+        
+ <!-- ETHEREUM BALANCE -->
+    <string name="eth_default_account_label">我的ETH钱包</string>
+    <string name="eth_now_supporting">现在支持ETH</string>
+    <string name="eth_second_password_prompt">要使用此服务，我们要求您输入第二个密码。您只需要输入这一次来设置您的ETH钱包</string>
+    <string name="ether">ETH</string>
+    <string name="bitcoin">比特币</string>
+    <string name="eth_to_field_helper">输入ETH地址或选择</string>
+    <string name="eth_to_field_helper_no_dropdown">输入ETH地址</string>
+    <string name="eth_invalid_address">无效ETH地址</string>
+    <string name="eth_support_contract_not_allowed">不支持合约地址。</string>
+    <string name="eth_support_only_eth">目前我们只支持ETH-您不能向该地址发送代币。</string>
+    <string name="eth_unconfirmed_wait">请等待您此前的交易确认</string>
+    <string name="eth_transaction_complete">交易完成！您的交易和余额将很快更新，这可能需要几分钟时间。\n</string>
+
+    <!-- DASHBOARD -->
+    <string name="dashboard_title">控制板</string>
+    <string name="dashboard_time_span_day">日</string>
+    <string name="dashboard_time_span_week">周</string>
+    <string name="dashboard_time_span_month">月</string>
+    <string name="dashboard_time_span_year">年</string>
+    <string name="dashboard_time_span_all_time">全部时间</string>
+    <string name="dashboard_bitcoin_price">比特币价格</string>
+    <string name="dashboard_ether_price">ETH价格</string>
+    <string name="dashboard_charts_error">加载图表数据时出错</string>
+    <string name="dashboard_charts_price_error">获取价格数据时出错</string>
+
+    <!-- ETHEREUM ONBOARDING -->
+    <string name="onboarding_ether_title">现在支持ETH</string>
+    <string name="onboarding_ether_description">你问，我们听。我们很高兴宣布您的Blockchain钱包现在允许您无缝发送和接收ETH。</string>
+    <string name="onboarding_ether_cta">开始使用ETH</string>
+
+    <!-- KV STORE -->
+    <string name="metadata_load_failure">加载完整钱包功能时出错。服务可能暂时不可用。</string>
+
 
 </resources>
