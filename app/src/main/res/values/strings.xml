@@ -789,7 +789,7 @@
 
     <!-- ETHEREUM ONBOARDING -->
     <string name="onboarding_ether_title">现在支持ETH</string>
-    <string name="onboarding_ether_description">你问，我们听。我们很高兴宣布您的Blockchain钱包现在允许您无缝发送和接收ETH。</string>
+    <string name="onboarding_ether_description">您问，我们听。我们很高兴宣布您的Blockchain钱包现在允许您无缝发送和接收ETH。</string>
     <string name="onboarding_ether_cta">开始使用ETH</string>
 
     <!-- KV STORE -->
