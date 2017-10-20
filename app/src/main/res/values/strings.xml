@@ -246,7 +246,7 @@
     <string name="transaction_failed">交易失败</string>
     <string name="UPGRADE_YOUR_WALLET">好的，让我们继续</string>
     <string name="upgrade_page_1">简化备份和恢复</string>
-    <string name="upgrade_page_2">通过分层确定性地址增强隐私性</string>
+    <string name="upgrade_page_2">通过分层确定性（HD）地址增强隐私性</string>
     <string name="upgrade_page_3">自定义你在Blockchain钱包管理比特币的方式</string>
     <!--<string name="confirm_upgrade_info">这次升级仅需一小段时间，你的比特币和交易记录是安全的。升级的好处：\n\n✓ 全新的设计和用户体验\n✓ 强大的安全中心\n✓ 增强的隐私性\n✓ 简化的备份与恢复\n✓ 自定义的资金管理\n\nOne 此次新版本不支持高级交易类型（共享加密货币）</string>-->
     <string name="confirm_upgrade_header">我们已经为您的Blockchain钱包添加了这些新的功能:</string>
@@ -395,8 +395,8 @@
     <string name="sms">短信</string>
     <string name="google_authenticator">谷歌认证</string>
     <string name="yubikey">Yubikey</string>
-    <string name="disable_2fa_first">请首先在安全设置中通过短信禁用两步验证。</string>
-    <string name="disable_online_only">请在网络浏览器中登录您的钱包来禁用两步验证。</string>
+    <string name="disable_2fa_first">请首先在安全设置中通过短信禁用双重验证。</string>
+    <string name="disable_online_only">请在网络浏览器中登录您的钱包来禁用双重验证。</string>
     <string name="settings_field_cant_be_empty">字段不能为空。</string>
     <string name="settings_error_updating">错误更新设置，请重试</string>
 
@@ -409,10 +409,10 @@
     <string name="select_country">选择国家</string>
     <string name="verify_sms_summary">我们已经向您的手机发送短信验证码，请输入该验证码来验证您的手机号。</string>
     <string name="verify_sms_failed">验证码无效，请重试</string>
-    <string name="mobile_description">您的手机能够用于启用双重认证,帮助确保您的钱包免遭未经授权的访问。</string>
+    <string name="mobile_description">您的手机能够用于启用双重验证,帮助确保您的钱包免遭未经授权的访问。</string>
 
     <string name="enable_fingerprint">指纹解锁</string>
-    <string name="two_fa">两步验证</string>
+    <string name="two_fa">双重验证</string>
     <string name="tor_requests">阻止Tor请求</string>
     <string name="tor_summary">阻止被认为是来自Tor匿名网络的IP地址。Tor网络经常被黑客用于尝试访问Blockchain用户的钱包。</string>
     <string name="enable_screenshots">启用截屏</string>
@@ -428,7 +428,7 @@
     <string name="new_password">新密码</string>
     <string name="sms_verified">手机号码验证</string>
     <string name="preferences">自选项</string>
-    <string name="two_fa_summary">通过启用两步认证来保护您的钱包不会遭受未授权访问。</string>
+    <string name="two_fa_summary">通过启用双重验证来保护您的钱包不会遭受未授权访问。</string>
     <string name="two_fa_description">通过启用两步认证来保护您的钱包不会遭受未授权访问。您可以选择使用您的手机号码来保护您的钱包。当你通过Web浏览器访问钱包时将需要您提供该验证码。\n\n为了使用其他身份验证方法，请在%1$s登录我们的Web钱包</string>
 
     <string name="rate_title">对Blockchain钱包进行评价</string>
@@ -733,12 +733,12 @@
     <string name="buy_second_password_prompt">要使用此服务，我们要求您输入第二个密码。您只需输入此一次即可使用购买功能。</string>
 
     <!-- 2FA Pairing -->
-    <string name="two_factor_dialog_title">输入双重认证码</string>
-    <string name="two_factor_dialog_message_authenticator">请输入您的验证器App中的有效双重认证码然后继续</string>
-    <string name="two_factor_dialog_message_sms">我们刚刚向您发送了一条包含双重认证码的短信。请在此处输入并继续</string>
-    <string name="two_factor_dialog_hint">双重认证码</string>
-    <string name="two_factor_null_error">双重认证码不能为空</string>
-    <string name="two_factor_incorrect_error">双重认证码不正确</string>
+    <string name="two_factor_dialog_title">输入双重验证码</string>
+    <string name="two_factor_dialog_message_authenticator">请输入您的验证器App中的有效双重验证码然后继续</string>
+    <string name="two_factor_dialog_message_sms">我们刚刚向您发送了一条包含双重验证码的短信。请在此处输入并继续</string>
+    <string name="two_factor_dialog_hint">双重验证码</string>
+    <string name="two_factor_null_error">双重验证码不能为空</string>
+    <string name="two_factor_incorrect_error">双重验证码不正确</string>
 
     <!-- CONFIRM PAYMENT -->
     <string name="confirm_payment_change_fee">更改手续费</string>
